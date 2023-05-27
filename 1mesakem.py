@@ -60,5 +60,5 @@ def print_names_by_length():
 print_longest_name()
 print_sum_of_lengths()
 print_shortest_names()
-#create_name_length_file()
+create_name_length_file()
 print_names_by_length()
