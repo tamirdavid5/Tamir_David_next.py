@@ -1,3 +1,5 @@
+#Name: Tamir David
+
 import matplotlib.pyplot as plt
 
 def connect_points(point_list):

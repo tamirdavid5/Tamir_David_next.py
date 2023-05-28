@@ -1,3 +1,5 @@
+#Name: Tamir David
+
 from datetime import datetime
 
 def gen_secs():
